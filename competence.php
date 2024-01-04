@@ -8,7 +8,7 @@ navbar();
         <center>COMPETENCES</center>
     </h2>
     <div class="w3-quarter w3-container w3-center">
-        <h3>Language de programmation</h3>
+        <h3>Languages de programmation</h3>
         <div class="cards">
             <div class="card">
                 <img style="height: calc(2vw + 40px);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -81,7 +81,7 @@ navbar();
 <br>
 <br>
 <h2 style="color :white">
-    <center>La plupart de ses compétences ont été acquises lors de mes études, j'essaie d'en dévelloper seul a l'image du python.</center>
+    <center>La plupart de ces compétences ont été acquises lors de mes études, j'essaie d'en dévelloper seul a l'image du python.</center>
 </h2>
 
 <style>
