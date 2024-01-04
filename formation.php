@@ -17,7 +17,7 @@ navbar();
         </div>
         <div class="w3-half w3-container w3-center">
             <img src="/image/lycee.jpg" style="width: 70%;" alt="Votre Image">
-            <h2>Lycée Jacques Cartien</h2>
+            <h2>Lycée Jacques Cartier</h2>
             <h2>2019 - 2022</h2>
             <h3>Bac Général Physique-Chimie/Mathématiques</h3>
         </div>

@@ -81,7 +81,7 @@ navbar();
 <br>
 <br>
 <h2 style="color :white">
-    <center>La plupart de ces compétences ont été acquises lors de mes études, j'essaie d'en dévelloper seul a l'image du python.</center>
+    <center>La plupart de ces compétences ont été acquises lors de mes études. J'essaie maintenant d'en développer certaines de manière autonome, à l'image de mes efforts avec le langage Python.</center>
 </h2>
 
 <style>

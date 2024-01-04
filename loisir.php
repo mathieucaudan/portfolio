@@ -16,7 +16,7 @@ navbar();
     <div class="w3-quarter w3-container w3-center">
         <img src="/image/penta.jpg" style="width: 70%;" alt="Votre Image">
         <h2>Pentathlon Moderne</h2>
-        <p>Le Pentathlon Moderne est arrivé très tard mais la passion est arrivé très vite. Ce sport m'as permis de découvrir le niveau international et obtenir des médaille lors de ces compétition comme sur l'image ci-dessus.</p>
+        <p>Le Pentathlon Moderne est arrivé très tard dans ma vie, mais la passion a pris racine très vite. Ce sport m'a permis de découvrir le niveau international et d'obtenir des médailles lors de ces compétitions, comme le montre l'image ci-dessus.</p>
     </div>
     <div class="w3-quarter w3-container w3-center">
         <img src="/image/rootme.png" style="width: 70%;" alt="Votre Image">
