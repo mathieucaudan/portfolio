@@ -28,7 +28,7 @@ navbar();
     <div class="w3-quarter w3-container w3-center">
         <img src="/image/f1.png" style="width: 70%;" alt="Votre Image">
         <h2>F1</h2>
-        <p>Plongé dans cet univers depuis tout petit, je n'ai jamais céssé de m'y interressé, j'ai l'objectif de pouvoir aller voir un grand prix!</p>
+        <p>Plongé dans cet univers depuis tout petit, je n'ai jamais cessé de m'y intéresser. J'ai l'objectif de pouvoir assister à un grand prix !</p>
     </div>
 </div>
 <?php
