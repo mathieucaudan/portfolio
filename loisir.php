@@ -21,7 +21,7 @@ navbar();
     <div class="w3-quarter w3-container w3-center">
         <img src="/image/rootme.png" style="width: 70%;" alt="Votre Image">
         <h2>Root me</h2>
-        <p>155 points sur Root-me (plateforme d'apprentissage en cybersécurité).<br>
+        <p>390 points sur Root-me (plateforme d'apprentissage en cybersécurité).<br>
             La cybersécurité est un domaine qui m'intéresse, en particulier la Stéganographie et la Cryptanalyse.<br>
             Participation au CTF Flag'Malo (compétition de hacking) en tant qu'amateur.</p>
     </div>
