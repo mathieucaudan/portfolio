@@ -15,7 +15,8 @@ function entete()
         <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js'></script>
         <style>
         body {
-            background-color: #750D37; 
+            background-color: #ecf0f1;
+            color : #34495e; 
         }
     </style>
      </head>";

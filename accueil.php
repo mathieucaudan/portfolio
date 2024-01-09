@@ -4,7 +4,7 @@ entete();
 navbar();
 ?>
 
-<div class="w3-container" style="color:white">
+<div class="w3-container">
   <h2>
     <center>Accueil</center>
   </h2>

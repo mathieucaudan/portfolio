@@ -4,14 +4,14 @@
 section {
   width: 100%;
   display: inline-block;
-  background: #210124;
+  background: #6c96bd;
   height: 50vh;
   text-align: center;
   font-weight: 700;
 }
 
 .footer-distributed {
-  background: #210124;
+  background: #6c96bd;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
   box-sizing: border-box;
   width: 100%;
@@ -60,7 +60,7 @@ section {
 }
 
 .footer-distributed .footer-company-name {
-  color: #210124;
+  color: #6c96bd;
   font-weight: normal;
   margin: 0;
 }
@@ -72,7 +72,7 @@ section {
 }
 
 .footer-distributed .footer-center i {
-  background-color: #210124;
+  background-color: #6c96bd;
   color: #ffffff;
   font-size: 35px;
   width: 38px;

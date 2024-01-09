@@ -3,7 +3,7 @@ include 'fonction.php';
 entete();
 navbar();
 ?>
-<div class="w3-container" style="color:white">
+<div class="w3-container">
     <h2>
         <center>COMPETENCES</center>
     </h2>
@@ -80,7 +80,7 @@ navbar();
 </div>
 <br>
 <br>
-<h2 style="color :white">
+<h2>
     <center>La plupart de ces compétences ont été acquises lors de mes études. J'essaie maintenant d'en développer certaines de manière autonome, à l'image de mes efforts avec le langage Python.</center>
 </h2>
 

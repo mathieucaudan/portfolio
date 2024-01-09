@@ -3,7 +3,7 @@ include 'fonction.php';
 entete();
 navbar();
 ?>
-<div class="w3-container" style="color:white">
+<div class="w3-container">
     <h2>
         <center>LOISIRS</center>
     </h2>
