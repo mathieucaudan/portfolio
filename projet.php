@@ -129,7 +129,7 @@ navbar();
         </div>
         <div class="w3-card">
             <div class="card-overlay">
-                <p>Ce projet sur 8h avait pour but de découvrir le pentesting. Pour cela, un réseau comprenant un dns et un routeur de tête nous a été fournis. Nous n'avions aucune connaissance donc ce fut un projet en total autonomie. Nous avons découvert un site web, et grâce à un travail d'osint, nous avons pu nous connecté avec un compte utilisateur. Puis avec une injection sql, la base de données à été découvert et donc le mot de passe admin à été révélé. Nous avons fini par nous créer un compte admin. </p>
+                <p>Ce projet sur 8h avait pour but de découvrir le pentesting. Pour cela, un réseau comprenant un dns et un routeur de tête nous a été fournis. Nous n'avions aucune connaissance donc ce fut un projet en total autonomie. Nous avons découvert un site web, et grâce à un travail d'osint, nous avons pu nous connecté avec un compte utilisateur. Puis avec une injection sql, la base de données à été découvert et donc le mot de passe admin à été révélé. Nous avons fini par nous créer un compte admin.1-+ </p>
             </div>
             <a href="sae/pentest.pdf" target="_blank">
                 <img src="/image/pentest.png" alt="Projet 2">

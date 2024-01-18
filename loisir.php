@@ -3,6 +3,11 @@ include 'fonction.php';
 entete();
 navbar();
 ?>
+<style>
+    img {
+        border-radius: 5%;
+    }
+</style>
 <div class="w3-container">
     <h2>
         <center>LOISIRS</center>
