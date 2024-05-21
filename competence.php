@@ -38,13 +38,13 @@ navbar();
                 <img style="height: calc(2vw + 40px);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
             </div>
             <div class="card">
-                <img style="height: calc(2vw + 40px);" src="/image/cisco.png" />
+                <img style="height: calc(2vw + 40px);" src="/image/cisco.webp" />
             </div>
             <div class="card">
-                <img style="height: calc(2vw + 40px);" src="/image/mpls.png" />
+                <img style="height: calc(2vw + 40px);" src="/image/mpls.webp" />
             </div>
             <div class="card">
-                <img style="height: calc(2vw + 40px);" src="/image/ospf.png" />
+                <img style="height: calc(2vw + 40px);" src="/image/ospf.webp" />
             </div>
         </div>
     </div>
@@ -52,10 +52,10 @@ navbar();
         <h3>Télécom</h3>
         <div class="cards">
             <div class="card">
-                <img style="height: calc(2vw + 40px);" src="/image/xdsl.png" />
+                <img style="height: calc(2vw + 40px);" src="/image/xdsl.webp" />
             </div>
             <div class="card">
-                <img style="height: calc(2vw + 40px);" src="/image/ftth.png" />
+                <img style="height: calc(2vw + 40px);" src="/image/ftth.webp" />
             </div>
         </div>
     </div>

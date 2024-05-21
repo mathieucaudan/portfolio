@@ -5,32 +5,39 @@ navbar();
 ?>
 
 <div class="w3-container">
-    <div class="w3-twothird w3-container w3-center">
+    <div class="w3-half w3-container w3-center">
         <h2>
-            <center>Formation</center>
+            <center>Formation</center></br>
         </h2>
-        <div class="w3-half w3-container w3-center">
-            <img src="/image/iut.png" style="width: 70%;" alt="Votre Image">
-            <h2>IUT de Saint-Malo</h2>
-            <h2>2022 - Aujourd'hui</h2>
-            <h3>Réseaux & Télécom</h3>
-        </div>
-        <div class="w3-half w3-container w3-center">
-            <img src="/image/lycee.jpg" style="width: 70%;" alt="Votre Image">
+        <div class="w3-half w3-container w3-center"></br>
+            <img src="/image/lycee.webp" style="width: 70%;" alt="Votre Image">
             <h2>Lycée Jacques Cartier</h2>
-            <h2>2019 - 2022</h2>
-            <h3>Bac Général Physique-Chimie/Mathématiques</h3>
+            <h2>Bac Général Physique-Chimie/Mathématiques</h2>
+            <h3>2019 - 2022</h3>
+        </div>
+        <div class="w3-half w3-container w3-center"></br>
+            <img src="/image/iut.webp" style="width: 70%;" alt="Votre Image">
+            <h2>IUT de Saint-Malo</h2>
+            <h2>Réseaux & Télécom</h2>
+            <h3>2022 - Aujourd'hui</h3>
         </div>
     </div>
-    <div class="w3-third w3-container w3-center">
+    <div class="w3-half w3-container w3-center">
         <h2>
-            <center>Expérience Professionnel</center>
+            <center>Expériences Professionnelles</center></br>
         </h2>
-        <div class=" w3-container w3-center">
-            <img src="/image/poisson.jpg" style="width: 70%;" alt="Votre Image">
+        <div class="w3-half w3-container w3-center"></br>
+            <img src="/image/poissonerie.webp" style="width: 70%;" alt="Votre Image">
             <h2>La Marée Dinardaise</h2>
-            <h2>2021 - Aujourd'hui</h2>
-            <h3>Poissonnerie</h3>
+            <h2>Poissonnerie</h2>
+            <h3>2021 - Aujourd'hui</h3>
+        </div>
+        <div class="w3-half w3-container w3-center">
+            <img src="/image/phareweb.webp" style="width: 70%;" alt="Votre Image">
+            <h2>Phare Web</h2>
+            <h2>Stage de 2ème année BUT</h2>
+            <h3>Avril 2024 - Aujourd'hui</h3>
+            <h3>Agence Web et Communication</h3>
         </div>
     </div>
 </div>

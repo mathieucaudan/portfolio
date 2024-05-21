@@ -41,8 +41,8 @@ function footer()
     </div>
     <div class='w3-half w3-container w3-center'>
         <div>
-            <a href='https://www.linkedin.com/in/mathieu-caudan-bb882b262/' target='_blank'><img src='image/linkedin.png' alt='Instagram' style='width: 20%; height: autp;'></a>
-            <a href='https://github.com/mathieucaudan' target='_blank'><img src='image/github.png' alt='Facebook' style='width: 20%; height: auto;'></a>
+            <a href='https://www.linkedin.com/in/mathieu-caudan-bb882b262/' target='_blank'><img src='image/linkedin.webp' alt='Instagram' style='width: 20%; height: autp;'></a>
+            <a href='https://github.com/mathieucaudan' target='_blank'><img src='image/github.webp' alt='Facebook' style='width: 20%; height: auto;'></a>
         </div>
     </div>
     <div style='color:white'><center>
